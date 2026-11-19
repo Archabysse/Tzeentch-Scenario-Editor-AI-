@@ -37,7 +37,7 @@ Designed for *Medieval II: Total War - Beginning of The End Times* (BOTET mod), 
 * **`battle_descriptions.txt` is not required** for a scenario to work, **but all players must have the same scenario folder**
 
 ---
-
+<details>
 ## -RULES & MECHANICS-
 
 *(BOTET v3 - rules derived from in-game testing and current editor: v2.1)*
@@ -96,7 +96,7 @@ An army's general is determined in the following order:
 * Two armies of the same faction; multiple attacking teams in a siege *(failed in-game tests, dropped)*; units from another faction.
 * Siege engines on cavalry, siege units, or ineligible units; engines on a non-sieging army; more than 9 engines of one type or 20 in total.
 * Picking the general by any means other than list order / unit attributes: the game decides *(see Section 2)*.
-
+</details>
 ---
 
 ## -ADDITIONAL NOTES-
