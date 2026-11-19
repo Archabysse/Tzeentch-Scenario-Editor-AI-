@@ -1,6 +1,6 @@
 # Tzeentch Scenario Editor
 
-**Tzeentch Scenario Editor** and its logo were made with AI (claude.ai)
+**Tzeentch Scenario Editor** (v2.1) and its logo were made with AI (claude.ai)
 
 Designed for *Medieval II: Total War - Beginning of The End Times* (BOTET mod), coded in Python
 
