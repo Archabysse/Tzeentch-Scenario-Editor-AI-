@@ -38,6 +38,8 @@ Designed for *Medieval II: Total War - Beginning of The End Times* (BOTET mod), 
 
 ---
 <details>
+
+ 
 ## -RULES & MECHANICS-
 
 *(BOTET v3 - rules derived from in-game testing and current editor: v2.1)*
