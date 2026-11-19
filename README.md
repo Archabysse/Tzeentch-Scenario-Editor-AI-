@@ -40,7 +40,7 @@ Designed for *Medieval II: Total War - Beginning of The End Times* (BOTET mod), 
 
 ## -RULES & MECHANICS-
 
-*(Medieval II Total War 1.52 + BOTET v3 - rules derived from in-game testing and current editor behavior: v2.1)*
+*(BOTET v3 - rules derived from in-game testing and current editor: v2.1)*
 
 ### 1. ARMIES AND UNITS
 * **Maximum armies:** 8 armies max; a faction can only appear once (duplicates are forbidden).
